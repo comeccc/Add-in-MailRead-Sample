@@ -1,4 +1,4 @@
-Add-in Mail Compose Sample, 
+Add-in Mail Read Sample, 
 https://github.com/OfficeDev/Add-in-MailRead-Sample
 
 Copyright (c) Microsoft Corporation
