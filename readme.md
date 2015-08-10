@@ -1,11 +1,11 @@
       __  __       _ _    ______                ___  
-     |  \/  | __ _(_) |  / /  _ \ ___  __ _  __| \ \ 
+     |  \/  | __ _(_) |  / /  _ \ ___  __ _  __| \ \
      | |\/| |/ _` | | | | || |_) / _ \/ _` |/ _` || |
      | |  | | (_| | | | | ||  _ <  __/ (_| | (_| || |
      |_|  |_|\__,_|_|_| | ||_| \_\___|\__,_|\__,_|| |
-                         \_\                     /_/ 
+                         \_\                     /_/
 
-This sample showcases a simple Add-in for Outlook that lets you get data from an email message. 
+This sample showcases a simple Add-in for Outlook that lets you get data from an email message.
 
 The easiest way to run this sample is to open it in the playground for Office Add-ins: http://aka.ms/Wwq6m4
 
@@ -13,7 +13,7 @@ The easiest way to run this sample is to open it in the playground for Office Ad
 
 If you're not using the playground for Office Add-ins, follow these steps to run the sample:
 
-1. Host these files either online (e.g. AWS, Azure, Heroku, etc) or on a local host (e.g. a local node.js/python server, etc). Make sure they are served over HTTPS. In the manifest.xml file, change the default value of the SourceLocation to point to the URL where the index.html file is hosted.
+1. Host these files either online (e.g. AWS, Azure, Heroku, etc) or on a local host (e.g. a local node.js/python server, etc). Make sure they are served over HTTPS. In the manifest.xml file, change the DefaultValue of the SourceLocation to point to the URL where the index.html file is hosted.
 
 2. Now, we want to make this page show up within Outlook as an add-in. Go to Office 365 Mail (https://outlook.office365.com) and login if you aren't already logged in.
 
