@@ -17,7 +17,7 @@ If you're not using the playground for Office Add-ins, follow these steps to run
 
 2. Now, we want to make this page show up within Outlook as an add-in. Go to Office 365 Mail (https://outlook.office365.com) and login if you aren't already logged in.
 
-Note: You need to already have a subscription to Office 365. If you don't have one, obtain a free account for 30 days from https://portal.microsoftonline.com/Signup/MainSignUp.aspx?OfferId=6881A1CB-F4EB-4db3-9F18-388898DAF510&DL=DEVELOPERPACK
+Note: You need to already have a subscription to Office 365. If you don't have one, [join the Office 365 Developer Program and get a free 1 year subscription to Office 365](https://aka.ms/devprogramsignup).
 
 3. Click on the Settings icon in the top right and select "Manage Apps".
 
