@@ -5,6 +5,8 @@
      |_|  |_|\__,_|_|_| | ||_| \_\___|\__,_|\__,_|| |
                          \_\                     /_/
 
+>**Note:**  We will be removing this sample from the site on November 30, 2016. If you’d like to keep a copy of this sample for your own reference, please download or clone the repo.
+
 This sample showcases a simple Add-in for Outlook that lets you get data from an email message.
 
 The easiest way to run this sample is to open it in the playground for Office Add-ins: http://aka.ms/Wwq6m4
